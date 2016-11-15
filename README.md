@@ -100,14 +100,14 @@ Big Data: 20 Free Big Data Sources Everyone Should Know
 Find and Use Data
 * https://www.quandl.com/
 
-http://ckan.org/
-* CKAN, the world’s leading open-source data portal platform
+CKAN, the world’s leading open-source data portal platform
+* http://ckan.org/
 
 InfoChimps
 * http://www.infochimps.com/datasets
 
 Repositories of datasets
-* http://www.trustlet.org/wiki/Repositories_of_datasets
+* http://www.trustlet.org/datasets/
 
 Quantnet - A Database-Driven Online Repository of Scientific Information
 * http://sfb649.wiwi.hu-berlin.de/quantnet/
@@ -115,7 +115,7 @@ Quantnet - A Database-Driven Online Repository of Scientific Information
 A community-curated database of well-known people, places, and things
 * http://www.freebase.com/
 
-Answer on Quora about datasets:
+Answer on Quora *"Where can I find large datasets open to the public?"*:
 * http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset
 
 Enron Email Dataset (Famous Public E-mails Dataset)
