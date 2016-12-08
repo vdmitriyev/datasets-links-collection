@@ -133,6 +133,9 @@ The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup doc
 Awesome Public Datasets (GitHub)
 * https://github.com/caesar0301/awesome-public-datasets
 
+LETOR: Learning to Rank for Information Retrieval
+*http://research.microsoft.com/en-us/um/beijing/projects/letor/
+
 Miscellaneous
 * https://archive-it.org/explore?show=Collections
 * https://delicious.com/pskomoroch/dataset
