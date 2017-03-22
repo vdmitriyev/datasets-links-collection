@@ -134,7 +134,7 @@ Awesome Public Datasets (GitHub)
 * https://github.com/caesar0301/awesome-public-datasets
 
 LETOR: Learning to Rank for Information Retrieval
-*http://research.microsoft.com/en-us/um/beijing/projects/letor/
+* http://research.microsoft.com/en-us/um/beijing/projects/letor/
 
 Miscellaneous
 * https://archive-it.org/explore?show=Collections
