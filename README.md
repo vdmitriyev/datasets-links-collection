@@ -4,6 +4,9 @@ Own collection of links to various datasets
 
 ### Datasets Links
 
+Data sets for machine learning in Python (github repository)
+* https://github.com/jaberg/skdata
+
 Public Data (List of Data Marketplaces):
 * http://www.bigdata-startups.com/public-data/
 
