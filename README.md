@@ -7,6 +7,10 @@ Own collection of links to various datasets
 Data sets for machine learning in Python (github repository)
 * https://github.com/jaberg/skdata
 
+ML-friendly Public Datasets (article on Kaggle)
+* https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+
+
 Public Data (List of Data Marketplaces):
 * http://www.bigdata-startups.com/public-data/
 
