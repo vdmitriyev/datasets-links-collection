@@ -153,15 +153,19 @@ Miscellaneous
 Energy
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
-  + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
+    + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
 * [UK Domestic Appliance-Level Electricity (UK-DALE) dataset](http://www.doc.ic.ac.uk/~dk3810/data/)
-  + Github repository - https://github.com/JackKelly/UK-DALE_metadata
+    + Github repository - https://github.com/JackKelly/UK-DALE_metadata
 * [Open PV Dataset (Tracking the Sun, Berkeley)](https://openpv.nrel.gov/search)
 * [Energy efficiency Data Set from UCI](http://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
-  + Analysis is here - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/energy-residential-buildings
- * [PLAID: the Plug Load Appliance Identification Dataset](http://plaidplug.com/)
-  + https://github.com/jingkungao/PLAID/blob/master/ParseData.ipynb
- * [Indian Dataset for Ambient Water and Energy (IWAE)](http://iawe.github.io/#about)
+    + Analysis is here - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/energy-residential-buildings
+* [PLAID: the Plug Load Appliance Identification Dataset](http://plaidplug.com/)
+    + https://github.com/jingkungao/PLAID/blob/master/ParseData.ipynb
+* [Indian Dataset for Ambient Water and Energy (IWAE)](http://iawe.github.io/#about)
+* [SMARD.DE Data](https://www.smard.de/blueprint/servlet/page/home/downloadcenter/download_marktdaten/726)
+* [Non-Intrusive Load Monitoring Toolkit (nilmtk)](https://github.com/nilmtk/nilmtk)
+* [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
+    + Some data analysis results can be found here - https://github.com/wri/global-power-plant-database
 
 Water
 
