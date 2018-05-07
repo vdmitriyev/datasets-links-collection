@@ -4,18 +4,20 @@ Own collection of links to various datasets
 
 ### Datasets Links
 
-Data sets for machine learning in Python (github repository)
-* https://github.com/jaberg/skdata
+* Dataset on Kaggle
+* https://www.kaggle.com/datasets
 
 ML-friendly Public Datasets (article on Kaggle)
 * https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 
+UC Irvine Machine Learning Repository:
+* http://archive.ics.uci.edu/ml/
+
+Data sets for machine learning in Python (github repository)
+* https://github.com/jaberg/skdata
 
 Public Data (List of Data Marketplaces):
 * http://www.bigdata-startups.com/public-data/
-
-UC Irvine Machine Learning Repository:
-* http://archive.ics.uci.edu/ml/
 
 Opendata by Socrata
 * https://opendata.socrata.com/
