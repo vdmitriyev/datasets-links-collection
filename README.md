@@ -72,7 +72,8 @@ DBpedia
 * http://dbpedia.org/About
 
 Global Database of Events, Language, and Tone (GDELT)
-* http://gdelt.utdallas.edu/data.html#reduced
+* https://www.gdeltproject.org/#downloading
+    - Some very basic data import can be found [here](https://github.com/vdmitriyev/gdelt-data-to-sap-hana-loader)
 
 PSLC DataShop in Pittsburgh
 * https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public
