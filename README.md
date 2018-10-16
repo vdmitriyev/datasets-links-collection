@@ -154,6 +154,9 @@ Miscellaneous
 * https://archive-it.org/explore?show=Collections
 * https://delicious.com/pskomoroch/dataset
 
+Stack Overflow Database (up to 320 Gb)
+* https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/
+
 Energy
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
