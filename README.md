@@ -1,6 +1,6 @@
 ## About
 
-Own collection of links to various datasets
+A collection of links for various [datasets](https://github.com/vdmitriyev/datasets-links-collection).
 
 ## Search Engines
 
