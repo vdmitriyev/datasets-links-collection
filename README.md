@@ -6,7 +6,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
+
 ## Datasets Links
+
+* Open Data of city Zürich
+    - A really impressive collection of datasets about the city
+    - https://data.stadt-zuerich.ch/
 
 * Dataset on Kaggle
 * https://www.kaggle.com/datasets
