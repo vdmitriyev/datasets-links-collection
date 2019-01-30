@@ -15,12 +15,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     
 * Airbnb   
     - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+    - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection)
 
 * Dataset on Kaggle
     - https://www.kaggle.com/datasets
-
-* ML-friendly Public Datasets (article on Kaggle)
-    - https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+    - ML-friendly Public Datasets (article on Kaggle)
+        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 
 UC Irvine Machine Learning Repository:
 * http://archive.ics.uci.edu/ml/
