@@ -12,12 +12,15 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Open Data of city Zürich
     - A really impressive collection of datasets about the city
     - https://data.stadt-zuerich.ch/
+    
+* Airbnb   
+    - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 * Dataset on Kaggle
-* https://www.kaggle.com/datasets
+    - https://www.kaggle.com/datasets
 
-ML-friendly Public Datasets (article on Kaggle)
-* https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+* ML-friendly Public Datasets (article on Kaggle)
+    - https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 
 UC Irvine Machine Learning Repository:
 * http://archive.ics.uci.edu/ml/
