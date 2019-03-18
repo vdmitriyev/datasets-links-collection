@@ -17,6 +17,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html)
     - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection)
 
+* Deutsche Bahn (Open Data Portal)
+    - https://data.deutschebahn.com/dataset?groups=datasets
+
 * Dataset on Kaggle
     - https://www.kaggle.com/datasets
     - ML-friendly Public Datasets (article on Kaggle)
