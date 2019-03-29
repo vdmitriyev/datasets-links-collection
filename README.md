@@ -6,6 +6,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
+## Tools To Handle Data
+
+* CKAN - the world’s leading open-source data portal platform
+    - http://ckan.org/
+* Datasette - A tool for exploring and publishing data
+    - https://github.com/simonw/datasette/blob/master/README.md
 
 ## Datasets Links
 
@@ -102,7 +108,7 @@ Global Database of Events, Language, and Tone (GDELT)
 PSLC DataShop in Pittsburgh
 * https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public
 
-Labeled Faces in the Wild[images of faces]
+Labeled Faces in the Wild [images of faces]
 * http://vis-www.cs.umass.edu/lfw/index.html
 
 Mobile Data Challenge (MDC) Dataset:
@@ -133,9 +139,6 @@ Big Data: 20 Free Big Data Sources Everyone Should Know
 
 Find and Use Data
 * https://www.quandl.com/
-
-CKAN, the world’s leading open-source data portal platform
-* http://ckan.org/
 
 InfoChimps
 * http://www.infochimps.com/datasets
