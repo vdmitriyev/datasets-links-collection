@@ -40,6 +40,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Open Data on AWS
     - https://registry.opendata.aws/
 
+* Twitter corpus of moral sentiment (35k)
+    - https://osf.io/k5n7y/
+    
 UC Irvine Machine Learning Repository:
 * http://archive.ics.uci.edu/ml/
 
