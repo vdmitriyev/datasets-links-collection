@@ -5,6 +5,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 ## Search Engines
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
 ## Tools To Handle Data
 
@@ -13,7 +14,23 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Datasette - A tool for exploring and publishing data
     - https://github.com/simonw/datasette/blob/master/README.md
 
+## Collections
+
+* Awesome Public Datasets (GitHub)
+    - https://github.com/caesar0301/awesome-public-datasets
+* Подборка датасетов для машинного обучения
+    - description is in russian, but the datasets are in various languages
+* Data from Publications
+    - http://figshare.com/
+* KDnuggets datasets
+    - http://www.kdnuggets.com/datasets/index.html
+
 ## Datasets Links
+
+* Dataset on Kaggle
+    - https://www.kaggle.com/datasets
+    - ML-friendly Public Datasets (article on Kaggle)
+        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 
 * Open Data of city Zürich
     - A really impressive collection of datasets about the city
@@ -26,164 +43,141 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Deutsche Bahn (Open Data Portal)
     - https://data.deutschebahn.com/dataset?groups=datasets
 
-* Dataset on Kaggle
-    - https://www.kaggle.com/datasets
-    - ML-friendly Public Datasets (article on Kaggle)
-        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
-
 * EU Open Data Portal
     - https://data.europa.eu/euodp/data/dataset
 
-* Microsoft Research Open Data
-    - https://msropendata.com/
+* WikiData
+    - http://www.wikidata.org/
+    - Wikipedia Revision History [314 millions of rows]:
+        + https://developers.google.com/bigquery/docs/dataset-wikipedia
+
+* DBpedia
+    - http://dbpedia.org/About
+
+* Twitter corpus of moral sentiment (35k)
+    - https://osf.io/k5n7y/
+
+* GENESIS-Online Database (Statistisches Bundesamt)
+    - https://www-genesis.destatis.de/genesis/online
 
 * Open Data on AWS
     - https://registry.opendata.aws/
 
-* Twitter corpus of moral sentiment (35k)
-    - https://osf.io/k5n7y/
-    
-UC Irvine Machine Learning Repository:
-* http://archive.ics.uci.edu/ml/
+* Web data: Amazon reviews (~35 million reviews)
+    - https://snap.stanford.edu/data/web-Amazon.html
 
-Data sets for machine learning in Python (github repository)
-* https://github.com/jaberg/skdata
+* Data sets for machine learning in Python (github repository)
+    - https://github.com/jaberg/skdata
 
-Public Data (List of Data Marketplaces):
-* http://www.bigdata-startups.com/public-data/
+* Public Data (List of Data Marketplaces):
+    - http://www.bigdata-startups.com/public-data/
 
-Opendata by Socrata
-* https://opendata.socrata.com/
+* Opendata by Socrata
+    - https://opendata.socrata.com/
 
-Data from Publications:
-* http://figshare.com/
+* Networks Datasets:
+    - http://konect.uni-koblenz.de/networks/
 
-KDnuggets datasets:
-* http://www.kdnuggets.com/datasets/index.html
+* Links to "Open Data" provided in the comments of ResearchGate.Net:
+    - http://web.ist.utl.pt/acardoso/datasets/
+    - http://webspam.lip6.fr/wiki/pmwiki.php
 
-Networks Datasets:
-* http://konect.uni-koblenz.de/networks/
+* SNAP - Stanford Network Analysis Project:
+    - http://snap.stanford.edu/data/
+    - http://snap.stanford.edu/data/links.html
+    - http://snap.stanford.edu/data/other.html
 
-Link to "Open Data" provided in the comments of ResearchGate.Net:
-* http://web.ist.utl.pt/acardoso/datasets/
-* http://webspam.lip6.fr/wiki/pmwiki.php
+* The daily news cycle [9*~2.0 GB]:
+    - http://www.memetracker.org/data.html
+    - https://pslcdatashop.web.cmu.edu/index.jsp
 
-SNAP - Stanford Network Analysis Project:
-* http://snap.stanford.edu/data/
-* http://snap.stanford.edu/data/links.html
-* http://snap.stanford.edu/data/other.html
+* S5 - A Labeled Anomaly Detection Dataset [~16M]
+    - http://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70
 
-The daily news cycle [9*~2.0 GB]:
-* http://www.memetracker.org/data.html
-* https://pslcdatashop.web.cmu.edu/index.jsp
+* Public Data Sets on AWS:
+    - http://aws.amazon.com/publicdatasets/#1
 
-S5 - A Labeled Anomaly Detection Dataset [~16M]
-* http://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70
+* Linked Open Data by NY Times[RDF]:
+    - http://data.nytimes.com/#
 
-GeoLife GPS Trajectories [298.66 MB]
-* http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/
+* Global Database of Events, Language, and Tone (GDELT)
+    - https://www.gdeltproject.org/#downloading
+        + Some very basic data import can be found [here](https://github.com/vdmitriyev/gdelt-data-to-sap-hana-loader)
 
-T-Drive trajectory data sample [~140 MB]
-* http://research.microsoft.com/apps/pubs/?id=152883
+* PSLC DataShop in Pittsburgh
+    - https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public
 
-Public Data Sets on AWS:
-* http://aws.amazon.com/publicdatasets/#1
+* Labeled Faces in the Wild [images of faces]
+    - http://vis-www.cs.umass.edu/lfw/index.html
 
-Wikipedia Revision History [314 millions of rows]:
-* https://developers.google.com/bigquery/docs/dataset-wikipedia
+* Mobile Data Challenge (MDC) Dataset:
+    - https://www.idiap.ch/dataset/mdc
 
-Data for Data Scientists:
-* http://www.kaggle.com/
+* Machine Learning Datasets Repository:
+    - http://mldata.org/
 
-Linked Open Data by NY Times[RDF]:
-* http://data.nytimes.com/#
+* Хаб открытых данных на русском языке:
+    - http://hubofdata.ru/
 
-WikiData
-* http://www.wikidata.org/
+* US Open Data Action Plan and Datasets:
+    - http://www.kdnuggets.com/2014/05/us-open-data-action-plan-data-sets.html
 
-DBpedia
-* http://dbpedia.org/About
+* 70+ websites to get large data repositories for free:
+    - http://www.bigdata-madesimple.com/70-websites-to-get-large-data-repositories-for-free/
 
-Global Database of Events, Language, and Tone (GDELT)
-* https://www.gdeltproject.org/#downloading
-    - Some very basic data import can be found [here](https://github.com/vdmitriyev/gdelt-data-to-sap-hana-loader)
+* StatLib---Datasets Archive
+    - http://lib.stat.cmu.edu/datasets/
 
-PSLC DataShop in Pittsburgh
-* https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public
+* 100+ Interesting Data Sets for Statistics
+    - http://rs.io/100-interesting-data-sets-for-statistics/
 
-Labeled Faces in the Wild [images of faces]
-* http://vis-www.cs.umass.edu/lfw/index.html
+* Big Data: 20 Free Big Data Sources Everyone Should Know
+    - http://smartdatacollective.com/bernardmarr/235366/big-data-20-free-big-data-sources-everyone-should-know
 
-Mobile Data Challenge (MDC) Dataset:
-* https://www.idiap.ch/dataset/mdc
+* InfoChimps
+    - http://www.infochimps.com/datasets
 
-Machine Learning Datasets Repository:
-* http://mldata.org/
+* Repositories of datasets
+    - http://www.trustlet.org/datasets/
 
-Хаб открытых данных на русском языке:
-* http://hubofdata.ru/
+* Quantnet - A Database-Driven Online Repository of Scientific Information
+    - http://sfb649.wiwi.hu-berlin.de/quantnet/
 
-US Open Data Action Plan and Datasets:
-* http://www.kdnuggets.com/2014/05/us-open-data-action-plan-data-sets.html
+* A community-curated database of well-known people, places, and things
+    - http://www.freebase.com/
 
-70+ websites to get large data repositories for free:
-* http://www.bigdata-madesimple.com/70-websites-to-get-large-data-repositories-for-free/
+* Answer on Quora *"Where can I find large datasets open to the public?"*:
+    - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset
 
-http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html
+* Enron Email Dataset (Famous Public E-mails Dataset)
+    - https://www.cs.cmu.edu/~./enron/
 
-StatLib---Datasets Archive
-* http://lib.stat.cmu.edu/datasets/
+* The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents
+    - http://qwone.com/~jason/20Newsgroups/
 
-100+ Interesting Data Sets for Statistics
-* http://rs.io/100-interesting-data-sets-for-statistics/
+* Stack Overflow Database (up to 320 Gb)
+    -   https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/
 
-Big Data: 20 Free Big Data Sources Everyone Should Know
-* http://smartdatacollective.com/bernardmarr/235366/big-data-20-free-big-data-sources-everyone-should-know
+* Miscellaneous
+    - https://archive-it.org/explore?show=Collections
+    - https://delicious.com/pskomoroch/dataset
+    - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html
 
-Find and Use Data
-* https://www.quandl.com/
+### Microsoft
 
-InfoChimps
-* http://www.infochimps.com/datasets
+* Microsoft Research Open Data
+    - https://msropendata.com/
+* GeoLife GPS Trajectories [298.66 MB]
+    - http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/
+* T-Drive trajectory data sample [~140 MB]
+    - http://research.microsoft.com/apps/pubs/?id=15288
+* Microsoft Data Science Initiative
+    - http://research.microsoft.com/apps/mobile/showpage.aspx?page=/en-us/projects/data-science-initiative/default.aspx#datasets
+* LETOR: Learning to Rank for Information Retrieval
+    - http://research.microsoft.com/en-us/um/beijing/projects/letor/
 
-Repositories of datasets
-* http://www.trustlet.org/datasets/
 
-Quantnet - A Database-Driven Online Repository of Scientific Information
-* http://sfb649.wiwi.hu-berlin.de/quantnet/
-
-A community-curated database of well-known people, places, and things
-* http://www.freebase.com/
-
-Answer on Quora *"Where can I find large datasets open to the public?"*:
-* http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset
-
-Enron Email Dataset (Famous Public E-mails Dataset)
-* https://www.cs.cmu.edu/~./enron/
-
-GENESIS-Online Database (Statistisches Bundesamt)
-* https://www-genesis.destatis.de/genesis/online
-
-Microsoft
-* http://research.microsoft.com/apps/mobile/showpage.aspx?page=/en-us/projects/data-science-initiative/default.aspx#datasets
-
-The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents
-* http://qwone.com/~jason/20Newsgroups/
-
-Awesome Public Datasets (GitHub)
-* https://github.com/caesar0301/awesome-public-datasets
-
-LETOR: Learning to Rank for Information Retrieval
-* http://research.microsoft.com/en-us/um/beijing/projects/letor/
-
-Miscellaneous
-* https://archive-it.org/explore?show=Collections
-* https://delicious.com/pskomoroch/dataset
-
-Stack Overflow Database (up to 320 Gb)
-* https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/
-
-Energy
+### Energy
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
     + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
@@ -200,7 +194,7 @@ Energy
 * [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
     + Some data analysis results can be found here - https://github.com/wri/global-power-plant-database
 
-Water
+### Water
 
 * SmartH2O Project
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
