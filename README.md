@@ -16,14 +16,17 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ## Collections
 
+* Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
+    - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Awesome Public Datasets (GitHub)
     - https://github.com/caesar0301/awesome-public-datasets
+* KDnuggets datasets
+    - http://www.kdnuggets.com/datasets/index.html
 * Подборка датасетов для машинного обучения
     - description is in russian, but the datasets are in various languages
 * Data from Publications
     - http://figshare.com/
-* KDnuggets datasets
-    - http://www.kdnuggets.com/datasets/index.html
+
 
 ## Datasets Links
 
@@ -193,6 +196,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [Non-Intrusive Load Monitoring Toolkit (nilmtk)](https://github.com/nilmtk/nilmtk)
 * [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
     + Some data analysis results can be found here - https://github.com/wri/global-power-plant-database
+* Erneuerbare-Energien-Gesetz data aggregated
+    - [Fig­ures, da­ta and in­for­ma­tion con­cern­ing the EEG](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/RenewableEnergy/Facts_Figures_EEG/FactsFiguresEEG_node.html)
+    - [EEG-Anlagenstammdaten](https://www.netztransparenz.de/EEG/Anlagenstammdaten)
+* [BLOND, a building-level office environment dataset of typical electrical appliances]
+    + publication - https://www.nature.com/articles/sdata201848
+    + dataset - https://mediatum.ub.tum.de/1375836
 
 ### Water
 
