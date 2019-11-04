@@ -7,15 +7,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
-## Tools To Handle Data
-
-* CKAN - the world’s leading open-source data portal platform
-    - http://ckan.org/
-* Datasette - A tool for exploring and publishing data
-    - https://github.com/simonw/datasette/blob/master/README.md
-
 ## Collections
 
+* Dataset on Kaggle
+    - https://www.kaggle.com/datasets
+    - ML-friendly Public Datasets (article on Kaggle)
+        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 * Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Awesome Public Datasets (GitHub)
@@ -30,10 +27,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ## Datasets Links
 
-* Dataset on Kaggle
-    - https://www.kaggle.com/datasets
-    - ML-friendly Public Datasets (article on Kaggle)
-        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+* Das Datenportal für Deutschland
+    - https://www.govdata.de/web/guest/daten
 
 * Open Data of city Zürich
     - A really impressive collection of datasets about the city
@@ -208,3 +203,10 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * SmartH2O Project
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
     + http://smarth2o.deib.polimi.it/results/datasets/
+
+## Tools To Handle Data
+
+* CKAN - the world’s leading open-source data portal platform
+    - http://ckan.org/
+* Datasette - A tool for exploring and publishing data
+    - https://github.com/simonw/datasette/blob/master/README.md
