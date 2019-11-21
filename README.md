@@ -44,6 +44,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * EU Open Data Portal
     - https://data.europa.eu/euodp/data/dataset
 
+* Music
+    - Million Playlist Dataset (RecSys Challenge 2018) - https://recsys-challenge.spotify.com/overview
+    - Million Song Dataset - http://millionsongdataset.com/index.html
 * WikiData
     - http://www.wikidata.org/
     - Wikipedia Revision History [314 millions of rows]:
