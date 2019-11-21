@@ -19,8 +19,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://github.com/caesar0301/awesome-public-datasets
 * KDnuggets datasets
     - http://www.kdnuggets.com/datasets/index.html
-* Подборка датасетов для машинного обучения
-    - description is in russian, but the datasets are in various languages
+* Descriptions are given in Russian, but the datasets are in various languages
+    - [Подборка датасетов для машинного обучения](https://habr.com/ru/post/452392/)
 * Data from Publications
     - http://figshare.com/
 
