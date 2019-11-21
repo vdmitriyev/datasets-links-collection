@@ -25,7 +25,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://figshare.com/
 
 
-## Datasets Links
+## Datasets Links (Germany/in German)
 
 * Das Datenportal für Deutschland
     - https://www.govdata.de/web/guest/daten
@@ -33,13 +33,19 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Open Data of city Zürich
     - A really impressive collection of datasets about the city
     - https://data.stadt-zuerich.ch/
+    
+* Deutsche Bahn (Open Data Portal)
+    - https://data.deutschebahn.com/dataset?groups=datasets
+
+* GENESIS-Online Database (Statistisches Bundesamt)
+    - https://www-genesis.destatis.de/genesis/online
+    
+    
+## Datasets Links
 
 * Airbnb
     - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html)
     - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection)
-
-* Deutsche Bahn (Open Data Portal)
-    - https://data.deutschebahn.com/dataset?groups=datasets
 
 * EU Open Data Portal
     - https://data.europa.eu/euodp/data/dataset
@@ -47,6 +53,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Music
     - Million Playlist Dataset (RecSys Challenge 2018) - https://recsys-challenge.spotify.com/overview
     - Million Song Dataset - http://millionsongdataset.com/index.html
+    
 * WikiData
     - http://www.wikidata.org/
     - Wikipedia Revision History [314 millions of rows]:
@@ -58,16 +65,13 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Twitter corpus of moral sentiment (35k)
     - https://osf.io/k5n7y/
 
-* GENESIS-Online Database (Statistisches Bundesamt)
-    - https://www-genesis.destatis.de/genesis/online
-
 * Open Data on AWS
     - https://registry.opendata.aws/
 
 * Web data: Amazon reviews (~35 million reviews)
     - https://snap.stanford.edu/data/web-Amazon.html
 
-* Data sets for machine learning in Python (github repository)
+* Datasets for machine learning in Python (github repository)
     - https://github.com/jaberg/skdata
 
 * Public Data (List of Data Marketplaces):
@@ -114,9 +118,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Mobile Data Challenge (MDC) Dataset:
     - https://www.idiap.ch/dataset/mdc
 
-* Machine Learning Datasets Repository:
-    - http://mldata.org/
-
 * Хаб открытых данных на русском языке:
     - http://hubofdata.ru/
 
@@ -134,9 +135,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * Big Data: 20 Free Big Data Sources Everyone Should Know
     - http://smartdatacollective.com/bernardmarr/235366/big-data-20-free-big-data-sources-everyone-should-know
-
-* InfoChimps
-    - http://www.infochimps.com/datasets
 
 * Repositories of datasets
     - http://www.trustlet.org/datasets/
