@@ -15,14 +15,16 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
         + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
-* 70+ Machine Learning Datasets – Gain real-world experience with Data Science projects
-    - https://data-flair.training/blogs/machine-learning-datasets/
 * Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
+* Open Data on AWS
+    - https://registry.opendata.aws/
 * Awesome Public Datasets (GitHub)
     - https://github.com/caesar0301/awesome-public-datasets
 * KDnuggets datasets
     - http://www.kdnuggets.com/datasets/index.html
+* 70+ Machine Learning Datasets – Gain real-world experience with Data Science projects
+    - https://data-flair.training/blogs/machine-learning-datasets/
 * Descriptions are given in Russian, but the datasets are in various languages
     - [Подборка датасетов для машинного обучения](https://habr.com/ru/post/452392/)
 * Data from Publications
@@ -68,9 +70,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * Twitter corpus of moral sentiment (35k)
     - https://osf.io/k5n7y/
-
-* Open Data on AWS
-    - https://registry.opendata.aws/
 
 * Web data: Amazon reviews (~35 million reviews)
     - https://snap.stanford.edu/data/web-Amazon.html
