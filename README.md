@@ -15,6 +15,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
         + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
+* 70+ Machine Learning Datasets – Gain real-world experience with Data Science projects
+    - https://data-flair.training/blogs/machine-learning-datasets/
 * Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Awesome Public Datasets (GitHub)
@@ -197,7 +199,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Erneuerbare-Energien-Gesetz data aggregated
     - [Fig­ures, da­ta and in­for­ma­tion con­cern­ing the EEG](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/RenewableEnergy/Facts_Figures_EEG/FactsFiguresEEG_node.html)
     - [EEG-Anlagenstammdaten](https://www.netztransparenz.de/EEG/Anlagenstammdaten)
-* [BLOND, a building-level office environment dataset of typical electrical appliances]
+* BLOND, a building-level office environment dataset of typical electrical appliances
     + publication - https://www.nature.com/articles/sdata201848
     + dataset - https://mediatum.ub.tum.de/1375836
 
