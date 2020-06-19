@@ -13,6 +13,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://www.kaggle.com/datasets
     - ML-friendly Public Datasets (article on Kaggle)
         + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+* Collections - high quality data and datasets organized by topic
+    - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
 * Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
