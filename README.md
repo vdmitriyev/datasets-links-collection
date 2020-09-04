@@ -9,6 +9,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ## Collections
 
+* Awesome Public Datasets (GitHub)
+    - https://github.com/caesar0301/awesome-public-datasets
 * Dataset on Kaggle
     - https://www.kaggle.com/datasets
     - ML-friendly Public Datasets (article on Kaggle)
@@ -21,8 +23,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
     - https://registry.opendata.aws/
-* Awesome Public Datasets (GitHub)
-    - https://github.com/caesar0301/awesome-public-datasets
 * KDnuggets datasets
     - http://www.kdnuggets.com/datasets/index.html
 * 70+ Machine Learning Datasets – Gain real-world experience with Data Science projects
