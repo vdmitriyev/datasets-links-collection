@@ -19,7 +19,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
-* Links to 756 (and Counting) Interesting Datasets (shared Google Spreadsheet)
+* Links to **1 071** (and counting) interestingdDatasets (shared via Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
     - https://registry.opendata.aws/
@@ -33,7 +33,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://figshare.com/
 
 
-## Datasets Links (Germany/in German)
+## Datasets Links (Germany / in German)
 
 * Das Datenportal für Deutschland
     - https://www.govdata.de/web/guest/daten
@@ -197,8 +197,8 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [Non-Intrusive Load Monitoring Toolkit (nilmtk)](https://github.com/nilmtk/nilmtk)
 * [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
     + Some data analysis results can be found here - https://github.com/wri/global-power-plant-database
-* Erneuerbare-Energien-Gesetz data aggregated
-    - [Fig­ures, da­ta and in­for­ma­tion con­cern­ing the EEG](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/RenewableEnergy/Facts_Figures_EEG/FactsFiguresEEG_node.html)
+* Erneuerbare-Energien-Gesetz aggregated data
+    - [Figures, data and information concerning the EEG](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/RenewableEnergy/Facts_Figures_EEG/FactsFiguresEEG_node.html)
     - [EEG-Anlagenstammdaten](https://www.netztransparenz.de/EEG/Anlagenstammdaten)
 * BLOND, a building-level office environment dataset of typical electrical appliances
     + publication - https://www.nature.com/articles/sdata201848
