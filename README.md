@@ -1,25 +1,24 @@
-## About
+## :speech_balloon: About
 
 A collection of links for various [datasets](https://github.com/vdmitriyev/datasets-links-collection).
 
-## Search Engines
+## :mag_right: Search Engines
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
-## Collections
+## :bookmark_tabs: Collections
 
 * Awesome Public Datasets (GitHub)
     - https://github.com/caesar0301/awesome-public-datasets
 * Dataset on Kaggle
     - https://www.kaggle.com/datasets
-    - ML-friendly Public Datasets (article on Kaggle)
-        + https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/
+    - [ML-friendly Public Datasets (article on Kaggle)](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/)
 * Collections - high quality data and datasets organized by topic
     - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
-* Links to **1 071** (and counting) interestingdDatasets (shared via Google Spreadsheet)
+* Links to **1 071** (and counting) interestingd datasets (shared via Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
     - https://registry.opendata.aws/
@@ -33,7 +32,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://figshare.com/
 
 
-## Datasets Links (Germany / in German)
+## :de: Datasets Links (Germany / in German)
 
 * Das Datenportal für Deutschland
     - https://www.govdata.de/web/guest/daten
@@ -49,21 +48,20 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://www-genesis.destatis.de/genesis/online
 
 
-## Datasets Links
+## :clipboard: Datasets Links
 
 | Dataset Name | Links |
 | ------------ | ----- |
 | Airbnb | - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html) </br> - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection) |
 | EU Open Data Portal | - https://data.europa.eu/euodp/data/dataset |
-| Music               | - Million Playlist Dataset (RecSys Challenge 2018) - https://recsys-challenge.spotify.com/overview </br> - Million Song Dataset - http://millionsongdataset.com/index.html |
-| WikiData            |  - http://www.wikidata.org/ </br> - Wikipedia Revision History [314 millions of rows](https://developers.google.com/bigquery/docs/dataset-wikipedia) | 
-| DBpedia             |  - http://dbpedia.org/About |
+| Music               | - [Million Playlist Dataset (RecSys Challenge 2018)](https://recsys-challenge.spotify.com/overview) </br> - [Million Song Dataset](http://millionsongdataset.com/index.html) |
+| WikiData            |  - http://www.wikidata.org/ </br> - [Wikipedia Revision History with ~ 314 millions of rows](https://developers.google.com/bigquery/docs/dataset-wikipedia) | 
+| DBpedia             |  - http://dbpedia.org/ |
 | Twitter corpus of moral sentiment (35k) | - https://osf.io/k5n7y/ |
 | Web data: Amazon reviews (~35 million reviews) | - https://snap.stanford.edu/data/web-Amazon.html |
 | Datasets for machine learning in Python | - https://github.com/jaberg/skdata |
-| List of Data Marketplaces |- http://www.bigdata-startups.com/public-data/ |
 | Open Data by Socrata | - https://opendata.socrata.com/ |
-| Networks Datasets   | - http://konect.uni-koblenz.de/networks/ |
+| Networks Datasets   | - https://west.uni-koblenz.de/research/datasets |
 | Open Data ( source: comments on ResearchGate) | - http://web.ist.utl.pt/acardoso/datasets/ </br> - http://webspam.lip6.fr/wiki/pmwiki.php |
 | SNAP - Stanford Network Analysis Project | - http://snap.stanford.edu/data/ </br> - http://snap.stanford.edu/data/links.html </br> - http://snap.stanford.edu/data/other.html |
 | The daily news cycle [9*~2.0 GB] |  - http://www.memetracker.org/data.html </br> - https://pslcdatashop.web.cmu.edu/index.jsp |
@@ -76,12 +74,10 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Mobile Data Challenge (MDC) Dataset | - https://www.idiap.ch/dataset/mdc |
 | (RU) Хаб открытых данных на русском языке |- http://hubofdata.ru/ |
 | US Open Data Action Plan and Datasets | - http://www.kdnuggets.com/2014/05/us-open-data-action-plan-data-sets.html |
-| 70+ websites to get large data repositories for free | - http://www.bigdata-madesimple.com/70-websites-to-get-large-data-repositories-for-free/ |
 | StatLib - Datasets Archive | - http://lib.stat.cmu.edu/datasets/ |
 | 100+ Interesting Data Sets for Statistics | - http://rs.io/100-interesting-data-sets-for-statistics/ |
 | Repositories of datasets | - http://www.trustlet.org/datasets/ | 
-| Quantnet <br> *A Database-Driven Online Repository of Scientific Information* | - http://sfb649.wiwi.hu-berlin.de/quantnet/ |
-| A community-curated database of well-known people, places, and things | - http://www.freebase.com/ |
+| Quantnet <br> *A Database-Driven Online Repository of Scientific Information* | - https://quantnet.hu-berlin.de/ |
 | Answer on Quora *"Where can I find large datasets open to the public?"* | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
 | The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents | - http://qwone.com/~jason/20Newsgroups/|
@@ -102,7 +98,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://research.microsoft.com/en-us/um/beijing/projects/letor/
 
 
-### Energy
+### :bulb: Energy
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
     + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
@@ -125,13 +121,13 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     + publication - https://www.nature.com/articles/sdata201848
     + dataset - https://mediatum.ub.tum.de/1375836
 
-### Water
+### :anchor: Water
 
 * SmartH2O Project
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
     + http://smarth2o.deib.polimi.it/results/datasets/
 
-## Tools To Handle Data
+## :gear: Tools To Handle Data
 
 * CKAN - the world’s leading open-source data portal platform
     - http://ckan.org/
