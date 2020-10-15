@@ -77,10 +77,10 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | StatLib - Datasets Archive | - http://lib.stat.cmu.edu/datasets/ |
 | 100+ Interesting Data Sets for Statistics | - http://rs.io/100-interesting-data-sets-for-statistics/ |
 | Repositories of datasets | - http://www.trustlet.org/datasets/ | 
-| Quantnet <br> *A Database-Driven Online Repository of Scientific Information* | - https://quantnet.hu-berlin.de/ |
-| Answer on Quora *"Where can I find large datasets open to the public?"* | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
+| Quantnet | - https://quantnet.hu-berlin.de/ |
+| Quora on open datasets | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
-| The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents | - http://qwone.com/~jason/20Newsgroups/|
+| The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
 | Stack Overflow Database (up to 320 Gb) | - https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/ |
 | Miscellaneous | - https://archive-it.org/explore?show=Collections </br> - https://delicious.com/pskomoroch/dataset </br> - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html |
 
