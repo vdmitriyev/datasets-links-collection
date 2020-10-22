@@ -133,3 +133,5 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://ckan.org/
 * Datasette - A tool for exploring and publishing data
     - https://github.com/simonw/datasette/blob/master/README.md
+* Amundsen - data discovery and metadata engine
+    - https://github.com/amundsen-io/amundsen
