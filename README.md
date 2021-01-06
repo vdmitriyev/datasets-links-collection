@@ -18,7 +18,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
     - https://relational.fit.cvut.cz/search
-* Links to **1 071** (and counting) interestingd datasets (shared via Google Spreadsheet)
+* Links to **1 111** (and counting) interestingd datasets (shared via Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
     - https://registry.opendata.aws/
