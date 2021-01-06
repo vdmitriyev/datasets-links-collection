@@ -54,6 +54,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | ------------ | ----- |
 | Airbnb | - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html) </br> - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection) |
 | EU Open Data Portal | - https://data.europa.eu/euodp/data/dataset |
+| DataHub of ready-to-use NLP datasets| https://github.com/huggingface/datasets |
 | Music               | - [Million Playlist Dataset (RecSys Challenge 2018)](https://recsys-challenge.spotify.com/overview) </br> - [Million Song Dataset](http://millionsongdataset.com/index.html) |
 | WikiData            |  - http://www.wikidata.org/ </br> - [Wikipedia Revision History with ~ 314 millions of rows](https://developers.google.com/bigquery/docs/dataset-wikipedia) | 
 | DBpedia             |  - http://dbpedia.org/ |
