@@ -6,6 +6,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
+* [PapersWithCode, ML Datasets](https://paperswithcode.com/datasets)
 
 ## :bookmark_tabs: Collections
 
