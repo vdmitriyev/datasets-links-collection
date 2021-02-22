@@ -5,8 +5,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 ## :mag_right: Search Engines
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
+* [Hugging Face Datasets](https://huggingface.co/datasets)
 * [PapersWithCode, ML Datasets](https://paperswithcode.com/datasets)
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
 ## :bookmark_tabs: Collections
 
