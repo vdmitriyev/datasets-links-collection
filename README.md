@@ -49,7 +49,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * GENESIS-Online Database (Statistisches Bundesamt)
     - https://www-genesis.destatis.de/genesis/online
 
-
+* Daten aus dem Handelsregister
+    - https://offeneregister.de/
+    
 ## :clipboard: Datasets Links
 
 | Dataset Name | Links |
