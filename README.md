@@ -87,6 +87,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
 | The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
 | Stack Overflow Database (up to 320 Gb) | - https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/ |
+| TimeDial and Disfl-QA (Conversational NLP) | https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html |
 | Miscellaneous | - https://archive-it.org/explore?show=Collections </br> - https://delicious.com/pskomoroch/dataset </br> - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html |
 
 ### Microsoft
