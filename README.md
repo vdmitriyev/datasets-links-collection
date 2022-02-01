@@ -35,9 +35,12 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 
 ## :de: Datasets Links (Germany / in German)
-
+    
 * Das Datenportal für Deutschland
     - https://www.govdata.de/web/guest/daten
+
+* Data Open Data Portal (Oldenburg)
+    - https://opendata.oldenburg.de
 
 * Open Data of city Zürich
     - A really impressive collection of datasets about the city
