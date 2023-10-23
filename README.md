@@ -9,6 +9,24 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [PapersWithCode, ML Datasets](https://paperswithcode.com/datasets)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
+## :de: Datasets Links (Germany / in German)
+
+* Das Datenportal für Deutschland
+    - https://www.govdata.de/web/guest/daten
+
+* Open Data of city Zürich
+    - A really impressive collection of datasets about the city
+    - https://data.stadt-zuerich.ch/
+
+* Deutsche Bahn (Open Data Portal)
+    - https://data.deutschebahn.com/dataset?groups=datasets
+
+* GENESIS-Online Database (Statistisches Bundesamt)
+    - https://www-genesis.destatis.de/genesis/online
+
+* Daten aus dem Handelsregister
+    - https://offeneregister.de/
+
 ## :bookmark_tabs: Collections
 
 * Awesome Public Datasets (GitHub)
@@ -33,24 +51,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Data from Publications
     - http://figshare.com/
 
-
-## :de: Datasets Links (Germany / in German)
-
-* Das Datenportal für Deutschland
-    - https://www.govdata.de/web/guest/daten
-
-* Open Data of city Zürich
-    - A really impressive collection of datasets about the city
-    - https://data.stadt-zuerich.ch/
-
-* Deutsche Bahn (Open Data Portal)
-    - https://data.deutschebahn.com/dataset?groups=datasets
-
-* GENESIS-Online Database (Statistisches Bundesamt)
-    - https://www-genesis.destatis.de/genesis/online
-
-* Daten aus dem Handelsregister
-    - https://offeneregister.de/
     
 ## :clipboard: Datasets Links
 
@@ -141,3 +141,5 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - https://github.com/simonw/datasette/blob/master/README.md
 * Amundsen - data discovery and metadata engine
     - https://github.com/amundsen-io/amundsen
+* OpenRefine - a powerful tool for working with messy data
+    - https://openrefine.org/
