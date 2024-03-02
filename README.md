@@ -106,7 +106,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * LETOR: Learning to Rank for Information Retrieval
     - http://research.microsoft.com/en-us/um/beijing/projects/letor/
 
-
 ### :bulb: Energy
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
@@ -136,7 +135,13 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
     + http://smarth2o.deib.polimi.it/results/datasets/
 
-## :gear: Tools To Handle Data
+### :robot: LLMs - Evaluation Datasets
+
+* [truthful_qa - Datasets at Hugging Face](https://huggingface.co/datasets/truthful_qa)
+* [wino_bias - Datasets at Hugging Face](https://huggingface.co/datasets/wino_bias)
+* [bold - Datasets at Hugging Face](https://huggingface.co/datasets/AlexaAI/bold)
+
+## :gear: Software To Work Data
 
 * CKAN - the world’s leading open-source data portal platform
     - http://ckan.org/
