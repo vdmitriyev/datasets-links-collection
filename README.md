@@ -62,7 +62,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Airbnb | - [Airbnb datasets by Inside Airbnb](http://insideairbnb.com/get-the-data.html) </br> - [Python scripts for Airbnb listings](https://github.com/tomslee/airbnb-data-collection) |
 | EU Open Data Portal | - https://data.europa.eu/euodp/data/dataset |
 | DataHub of ready-to-use NLP datasets| - https://github.com/huggingface/datasets |
-| Music               | - [Million Playlist Dataset (RecSys Challenge 2018)](https://recsys-challenge.spotify.com/overview) </br> - [Million Song Dataset](http://millionsongdataset.com/index.html) |
+| Music               |  - [Million Song Dataset](http://millionsongdataset.com/index.html) |
 | WikiData            |  - http://www.wikidata.org/ </br> - [Wikipedia Revision History with ~ 314 millions of rows](https://developers.google.com/bigquery/docs/dataset-wikipedia) | 
 | DBpedia             |  - http://dbpedia.org/ |
 | Twitter corpus of moral sentiment (35k) | - https://osf.io/k5n7y/ |
@@ -110,9 +110,9 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
     + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
-* [UK Domestic Appliance-Level Electricity (UK-DALE) dataset](http://www.doc.ic.ac.uk/~dk3810/data/)
+* [UK Domestic Appliance-Level Electricity (UK-DALE) dataset](https://jack-kelly.com/data/)
     + Github repository - https://github.com/JackKelly/UK-DALE_metadata
-* [Open PV Dataset (Tracking the Sun, Berkeley)](https://openpv.nrel.gov/search)
+* [Berkeley Lab's Tracking the Sun (Open PV Dataset)](https://data.openei.org/submissions/3)
 * [Energy efficiency Data Set from UCI](http://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
     + Analysis is here - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/energy-residential-buildings
 * [PLAID: the Plug Load Appliance Identification Dataset](http://plaidplug.com/)
