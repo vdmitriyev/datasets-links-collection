@@ -40,7 +40,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Collections - high quality data and datasets organized by topic
     - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
-    - https://relational.fit.cvut.cz/search
+    - https://www.relational-data.org/
 * Links to **1 111** (and counting) interestingd datasets (shared via Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
@@ -69,7 +69,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Web data: Amazon reviews (~35 million reviews) | - https://snap.stanford.edu/data/web-Amazon.html |
 | Datasets for machine learning in Python | - https://github.com/jaberg/skdata |
 | Open Data by Socrata | - https://opendata.socrata.com/ |
-| Networks Datasets   | - https://west.uni-koblenz.de/research/datasets |
 | Open Data ( source: comments on ResearchGate) | - http://web.ist.utl.pt/acardoso/datasets/ </br> - http://webspam.lip6.fr/wiki/pmwiki.php |
 | SNAP - Stanford Network Analysis Project | - http://snap.stanford.edu/data/ </br> - http://snap.stanford.edu/data/links.html </br> - http://snap.stanford.edu/data/other.html |
 | The daily news cycle [9*~2.0 GB] |  - http://www.memetracker.org/data.html </br> - https://pslcdatashop.web.cmu.edu/index.jsp |
@@ -85,7 +84,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | StatLib - Datasets Archive | - http://lib.stat.cmu.edu/datasets/ |
 | 100+ Interesting Data Sets for Statistics | - http://rs.io/100-interesting-data-sets-for-statistics/ |
 | Repositories of datasets | - http://www.trustlet.org/datasets/ | 
-| Quantnet | - https://quantnet.hu-berlin.de/ |
 | Quora on open datasets | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
 | The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
@@ -108,7 +106,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ### :bulb: Energy
 
-* [Solar Measurement Grid Oahu, Hawaii by NREL](https://www.nrel.gov/midc/oahu_archive/)
+* [Solar Measurement Grid Oahu, Hawaii by NREL](https://data.nrel.gov/submissions/11)
     + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
 * [UK Domestic Appliance-Level Electricity (UK-DALE) dataset](https://jack-kelly.com/data/)
     + Github repository - https://github.com/JackKelly/UK-DALE_metadata
@@ -123,7 +121,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
     + Some data analysis results can be found here - https://github.com/wri/global-power-plant-database
 * Erneuerbare-Energien-Gesetz aggregated data
-    - [Figures, data and information concerning the EEG](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/RenewableEnergy/Facts_Figures_EEG/FactsFiguresEEG_node.html)
+    - [Figures, data and information concerning the EEG](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/start.html)
     - [EEG-Anlagenstammdaten](https://www.netztransparenz.de/EEG/Anlagenstammdaten)
 * BLOND, a building-level office environment dataset of typical electrical appliances
     + publication - https://www.nature.com/articles/sdata201848
