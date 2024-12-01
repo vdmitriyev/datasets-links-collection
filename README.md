@@ -106,6 +106,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ### :bulb: Energy
 
+* [Energy (by `Awesome Public Datasets`)](https://github.com/awesomedata/awesome-public-datasets#energy)
 * [Solar Measurement Grid Oahu, Hawaii by NREL](https://data.nrel.gov/submissions/11)
     + First analysis - https://github.com/vdmitriyev/data-analysis-notebooks/tree/master/nrel-oahu-solar
 * [UK Domestic Appliance-Level Electricity (UK-DALE) dataset](https://jack-kelly.com/data/)
