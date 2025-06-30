@@ -55,7 +55,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     - http://figshare.com/
 
     
-## :clipboard: Datasets Links
+## :clipboard: Datasets links
 
 | Dataset Name | Links |
 | ------------ | ----- |
@@ -89,6 +89,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
 | Stack Overflow Database (up to 320 Gb) | - https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/ |
 | TimeDial and Disfl-QA (Conversational NLP) | https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html |
+| Computer and Information Literacy (ICILS) | https://www.iea.nl/news-events/news/released-icils-2023-international-database |
 | Miscellaneous | - https://archive-it.org/explore?show=Collections </br> - https://delicious.com/pskomoroch/dataset </br> - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html |
 
 ### Microsoft
@@ -134,13 +135,13 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
     + http://smarth2o.deib.polimi.it/results/datasets/
 
-### :robot: LLMs - Evaluation Datasets
+### :robot: LLMs - Evaluation datasets
 
 * [truthful_qa - Datasets at Hugging Face](https://huggingface.co/datasets/truthful_qa)
 * [wino_bias - Datasets at Hugging Face](https://huggingface.co/datasets/wino_bias)
 * [bold - Datasets at Hugging Face](https://huggingface.co/datasets/AlexaAI/bold)
 
-## :gear: Software To Work Data
+## :gear: Software to work with data
 
 * CKAN - the world’s leading open-source data portal platform
     - http://ckan.org/
