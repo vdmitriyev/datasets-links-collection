@@ -128,12 +128,18 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * BLOND, a building-level office environment dataset of typical electrical appliances
     + publication - https://www.nature.com/articles/sdata201848
     + dataset - https://mediatum.ub.tum.de/1375836
+* German Power Plant and Energy System Registry Marktstammdatenregister (MaStR)
+    + Python package - https://github.com/OpenEnergyPlatform/open-MaStR
 
 ### :anchor: Water
 
 * SmartH2O Project
     + https://zenodo.org/record/556152#.WgsNsWjWxhF
     + http://smarth2o.deib.polimi.it/results/datasets/
+
+### :green_book: Education
+
+* [International Computer and Information Literacy Study (ICILS 2023)](https://www.iea.nl/news-events/news/released-icils-2023-international-database)
 
 ### :robot: LLMs - Evaluation datasets
 
