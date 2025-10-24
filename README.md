@@ -70,24 +70,20 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Datasets for machine learning in Python | - https://github.com/jaberg/skdata |
 | Open Data by Socrata | - https://opendata.socrata.com/ |
 | SNAP - Stanford Network Analysis Project | - http://snap.stanford.edu/data/ </br> - http://snap.stanford.edu/data/links.html </br> - http://snap.stanford.edu/data/other.html |
-| The daily news cycle [9*~2.0 GB] |  - http://www.memetracker.org/data.html </br> - https://pslcdatashop.web.cmu.edu/index.jsp |
-| S5 - A Labeled Anomaly Detection Dataset [~16M] | - http://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70 |
 | Data Sets on AWS | - http://aws.amazon.com/publicdatasets/#1 |
 | Global Database of Events, Language, and Tone (GDELT) | - https://www.gdeltproject.org/#downloading </br> - Basic data import can be found [here](https://github.com/vdmitriyev/gdelt-data-to-sap-hana-loader) |
 | PSLC DataShop in Pittsburgh | - https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public |
-| Labeled Faces in the Wild [images of faces] | - http://vis-www.cs.umass.edu/lfw/index.html |
 | Mobile Data Challenge (MDC) Dataset | - https://www.idiap.ch/dataset/mdc |
 | (RU) Хаб открытых данных на русском языке |- http://hubofdata.ru/ |
 | US Open Data Action Plan and Datasets | - http://www.kdnuggets.com/2014/05/us-open-data-action-plan-data-sets.html |
 | StatLib - Datasets Archive | - http://lib.stat.cmu.edu/datasets/ |
 | 100+ Interesting Data Sets for Statistics | - http://rs.io/100-interesting-data-sets-for-statistics/ |
-| Quora on open datasets | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
 | The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
 | Stack Overflow Database (up to 320 Gb) | - https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/ |
 | TimeDial and Disfl-QA (Conversational NLP) | https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html |
 | Computer and Information Literacy (ICILS) | https://www.iea.nl/news-events/news/released-icils-2023-international-database |
-| Miscellaneous | - https://archive-it.org/explore?show=Collections </br> - https://delicious.com/pskomoroch/dataset </br> - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html |
+| Miscellaneous | - https://archive-it.org/explore?show=Collections </br> - http://www.hpi.uni-potsdam.de/naumann/projekte/repeatability/datasets.html |
 
 ### Microsoft
 
