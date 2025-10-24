@@ -40,7 +40,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * Collections - high quality data and datasets organized by topic
     - https://datahub.io/collections
 * RELATIONAL DATASET REPOSITORY
-    - https://www.relational-data.org/
+    - https://relational.fel.cvut.cz/
 * Links to **1 111** (and counting) interestingd datasets (shared via Google Spreadsheet)
     - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 * Open Data on AWS
@@ -69,12 +69,10 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | Web data: Amazon reviews (~35 million reviews) | - https://snap.stanford.edu/data/web-Amazon.html |
 | Datasets for machine learning in Python | - https://github.com/jaberg/skdata |
 | Open Data by Socrata | - https://opendata.socrata.com/ |
-| Open Data ( source: comments on ResearchGate) | - http://web.ist.utl.pt/acardoso/datasets/ </br> - http://webspam.lip6.fr/wiki/pmwiki.php |
 | SNAP - Stanford Network Analysis Project | - http://snap.stanford.edu/data/ </br> - http://snap.stanford.edu/data/links.html </br> - http://snap.stanford.edu/data/other.html |
 | The daily news cycle [9*~2.0 GB] |  - http://www.memetracker.org/data.html </br> - https://pslcdatashop.web.cmu.edu/index.jsp |
 | S5 - A Labeled Anomaly Detection Dataset [~16M] | - http://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70 |
 | Data Sets on AWS | - http://aws.amazon.com/publicdatasets/#1 |
-| Linked Open Data by NY Times[RDF] | - http://data.nytimes.com/# |
 | Global Database of Events, Language, and Tone (GDELT) | - https://www.gdeltproject.org/#downloading </br> - Basic data import can be found [here](https://github.com/vdmitriyev/gdelt-data-to-sap-hana-loader) |
 | PSLC DataShop in Pittsburgh | - https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public |
 | Labeled Faces in the Wild [images of faces] | - http://vis-www.cs.umass.edu/lfw/index.html |
@@ -83,7 +81,6 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 | US Open Data Action Plan and Datasets | - http://www.kdnuggets.com/2014/05/us-open-data-action-plan-data-sets.html |
 | StatLib - Datasets Archive | - http://lib.stat.cmu.edu/datasets/ |
 | 100+ Interesting Data Sets for Statistics | - http://rs.io/100-interesting-data-sets-for-statistics/ |
-| Repositories of datasets | - http://www.trustlet.org/datasets/ | 
 | Quora on open datasets | - http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?q=dataset |
 | Enron Email Dataset (Famous Public E-mails Dataset) | - https://www.cs.cmu.edu/~./enron/ |
 | The 20 Newsgroups data set (~ 20,000 docs) | - http://qwone.com/~jason/20Newsgroups/|
@@ -143,8 +140,7 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 
 ### :robot: LLMs - Evaluation datasets
 
-* [truthful_qa - Datasets at Hugging Face](https://huggingface.co/datasets/truthful_qa)
-* [wino_bias - Datasets at Hugging Face](https://huggingface.co/datasets/wino_bias)
+* [truthful_qa - Datasets at Hugging Face](https://huggingface.co/datasets/domenicrosati/TruthfulQA)
 * [bold - Datasets at Hugging Face](https://huggingface.co/datasets/AlexaAI/bold)
 
 ## :gear: Software to work with data
