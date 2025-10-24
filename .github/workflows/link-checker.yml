@@ -4,7 +4,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '17 15 * * 5' # friday 15:17
+    - cron: '17 15 1-7 * 5' # first friday of the month at 15:17
 
 jobs:
   link-check:
