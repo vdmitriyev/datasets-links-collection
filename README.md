@@ -9,6 +9,16 @@ A collection of links for various [datasets](https://github.com/vdmitriyev/datas
 * [PapersWithCode, ML Datasets](https://paperswithcode.com/datasets)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml)
 
+## 🎓 Research Data Management (RDM) Platforms and Repositories  
+
+* IEEE DataPort
+    - https://ieee-dataport.org/
+
+### 📃 Research Data Management (RDM) Registries
+
+* https://www.re3data.org/
+    - Registry of research data repositories
+
 ## :de: Datasets Links (Germany / in German)
     
 * Das Datenportal für Deutschland
